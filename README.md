@@ -25,5 +25,5 @@ Transitioning from a big company to a fast-paced startup was a challenging, as w
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL, GraphQL & Java/C++.
 
-Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of [Heartfulness Meditation](http://heartfulness.org/)
+Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/)
 
