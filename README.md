@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-I am currently a software development engineer at Zaya Learning Labs since March 2020, with 1.2 years of total experience in fullstack development.
+A passionate software development engineer at Zaya Learning Labs since March 2020, with 1.4 years of total experience, who loves building beautiful, intuitive & pixel-perfect user interfaces. I strive for perfection.
 
-Before this, I had finished two internships, both fullstack; one at Red Hat, and the second one at Bots N' Brains. Got to dabble with the MEAN and MERN stacks.
+I also love working full-stack, even though my interests are aligned towards the front-end, and love solving challenging problems.
 
-Transitioning from a big company to a fast-paced startup was a challenging, as well as an exciting transition. I got to experience life at two different ends of the spectrum, whilst I was juggling my Masters in CS studies on the side.
+Previously, I worked as a fullstack intern; the first at Red Hat, and the second one at Bots N' Brains. 
 
-I have a deep passion for web engineering, and love building beautiful, intuitive & pixel-perfect UIs.
+Worked with the MEAN and MERN stacks with GraphQL, and now I'm building UIs with Vue & VueX.
 
-I also like building and handling the backend side of things, even though my interests are mainly aligned towards the front-end, and I love solving challenging problems.
+Transitioning from a big company to a fast-paced startup was a challenging, as well as an exciting transition. I got to experience life at two different ends of the spectrum, whilst pursuing my Masters in CS on the side.
 
 **Stuff I know:** HTML, CSS/SASS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL, GraphQL, Java and Python.
 
-Aside from tech, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics and I am an avid practitioner and volunteer of Heartfulness. 
+Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of Heartfulness Meditation.
 
