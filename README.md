@@ -23,7 +23,7 @@ Worked with the MEAN and MERN stacks + GraphQL, and now I'm building UIs with Vu
 
 Transitioning from a big company to a fast-paced startup was a challenging, as well as an exciting transition. I got to experience life at two different ends of the spectrum, whilst pursuing my Masters in CS on the side.
 
-**Stuff I know:** HTML, CSS/SASS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL, GraphQL, Java and Python.
+**Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL, GraphQL & Java/C++.
 
 Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of Heartfulness Meditation.
 
