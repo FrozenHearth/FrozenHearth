@@ -19,7 +19,7 @@ I also love working full-stack, even though my interests are aligned towards the
 
 Previously, I worked as a fullstack intern; the first at Red Hat, and the second one at Bots N' Brains. 
 
-Worked with the MEAN and MERN stacks with GraphQL, and now I'm building UIs with Vue & VueX.
+Worked with the MEAN and MERN stacks + GraphQL, and now I'm building UIs with Vue & VueX.
 
 Transitioning from a big company to a fast-paced startup was a challenging, as well as an exciting transition. I got to experience life at two different ends of the spectrum, whilst pursuing my Masters in CS on the side.
 
