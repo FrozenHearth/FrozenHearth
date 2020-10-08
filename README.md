@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate software development engineer at Zaya Learning Labs since March 2020, with 1.4 years of total experience, who loves building beautiful, intuitive & pixel-perfect user interfaces. I strive for perfection.
+A passionate software development engineer(front-end) at Zaya Learning Labs since March, with 1 and a half years of total experience in fullstack development
 
-I also love working full-stack, even though my interests are aligned towards the front-end, and love solving challenging problems.
+I love bringing alive designs via the UIs I build, being obsessed with striving to make them pixel-perfect, while banging my head over the hackiness & weirdness of CSS.
 
-Previously, I worked as a fullstack intern; the first at Red Hat, and the second one at Bots N' Brains. 
+Honestly, complex problems make me panicky, but I still love tackling & converting problems into code.
 
-Worked with the MEAN and MERN stacks + GraphQL, and now I'm building UIs with Vue & VueX.
+Have a hunger for learning & strive to improve myself everyday.
 
-Transitioning from a big company to a fast-paced startup was a challenging, as well as an exciting transition. I got to experience life at two different ends of the spectrum, whilst pursuing my Masters in CS on the side.
+Always up to discuss anything web-related or music, Marvel/DC comics & movies and manga/anime. 
 
-**Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL, GraphQL & Java/C++.
+**Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
 Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/)
 
