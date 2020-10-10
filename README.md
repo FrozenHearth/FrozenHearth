@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate software development engineer(front-end) at Zaya Learning Labs since March, with 1 and a half years of total experience in fullstack development
+A passionate front-end engineer at Zaya Learning Labs since March, with 1 and a half years of total experience in fullstack development.
 
 I love bringing alive designs via the UIs I build, being obsessed with striving to make them pixel-perfect, while banging my head over the hackiness & weirdness of CSS.
 
