@@ -25,5 +25,4 @@ Always up to discuss anything web-related or music, Marvel/DC comics & movies an
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
-Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, staying fit, quantum physics/mechanics, binging Marvel/DC comics & movies, and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/)
-
+Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, working out, quantum physics, binging Marvel/DC movies, anime/manga and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
