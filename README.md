@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate front-end engineer at Zaya Learning Labs since March, with 1 and a half years of total experience in fullstack development.
+A passionate front-end SDE at Zaya Learning Labs since March, with 1 and a half years of total experience.
 
-I love bringing alive designs via the UIs I build, being obsessed with striving to make them pixel-perfect, while banging my head over the hackiness & weirdness of CSS.
+Started as a fullstack intern, eventually transitioning into front-end engineering.
 
-Honestly, complex problems make me panicky, but I still love tackling & converting problems into code.
+I love bringing alive designs via the UIs I build, being obsessed with making them as close to the original as possible.
 
-Have a hunger for learning & strive to improve myself everyday.
-
-Always up to discuss anything web-related or music, Marvel/DC comics & movies and manga/anime. 
+I'm always up for discussing anything software related, particularly anything that pertains to the front-end. 
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
