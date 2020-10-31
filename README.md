@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate front-end SDE at Zaya Learning Labs since March, with 1 and a half years of total experience.
+A passionate front-end SDE at Zaya Learning Labs since March, with one and a half years of total experience.
 
 Started as a fullstack intern, eventually transitioning into front-end engineering.
 
