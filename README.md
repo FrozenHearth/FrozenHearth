@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate front-end SDE at Zaya Learning Labs since March, with 2 years of total experience.
+A passionate software engineer, I started as a fullstack intern, eventually transitioning into front-end, and have 2 years of total experience.
 
-Started as a fullstack intern, eventually transitioning into front-end engineering.
+Love building beautiful and intuitive user-interfaces.
 
-I love bringing alive designs via the UIs I build, being obsessed with making them as close to the original as possible.
+Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux and Vuex and SSR frameworks such as Nuxt.
 
-I'm always up for discussing anything software related, particularly anything that pertains to the front-end. 
+I'm always up for discussing anything software related. 
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
