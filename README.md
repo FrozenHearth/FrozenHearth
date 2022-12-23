@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate software engineer, I started as a fullstack intern, eventually transitioning into front-end, and have 3 years and 5 months of total experience.
+A passionate software engineer, I started as a fullstack intern, eventually transitioning into front-end, and have 3 years and 7 months of experience.
 
 Love building beautiful and intuitive user-interfaces.
 
