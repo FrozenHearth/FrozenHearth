@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate software engineer, I started as a fullstack intern, eventually transitioning into front-end, and have 3 years and 7 months of experience.
+A passionate software engineer, I started as a fullstack intern, eventually transitioning into front-end, and have 3 years and 8 months of experience.
 
 Love building beautiful and intuitive user-interfaces.
 
 Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux and Vuex and SSR frameworks such as Nuxt.
 
 I'm always up for discussing anything software related. 
+
+Currently planning to learn Next.js
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
