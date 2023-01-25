@@ -21,7 +21,7 @@ Well versed in Javascript and its frameworks/libraries such as Angular, React, V
 
 I'm always up for discussing anything software related. 
 
-Currently planning to learn Next.js
+Currently planning to learn Next.js, Tailwind and Remix.
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, Node, Express, MongoDB, mySQL & GraphQL
 
