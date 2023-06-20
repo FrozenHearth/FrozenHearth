@@ -24,5 +24,3 @@ Currently learning advanced Typescript.
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, GraphQL, Next.js & Tailwind
 
 Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, working out, quantum physics, binging Marvel/DC movies, anime/manga and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
-
-#### Urgently looking for a job switch - A frontend or a Senior Frontend role at a big product company or an established startup with >100 employees. Thanks!
