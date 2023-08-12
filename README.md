@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 A passionate frontend engineer -- I started out as a fullstack intern, eventually transitioning into front-end, and have 3 years and 10 months of experience.
 
-Love building beautiful and intuitive user-interfaces.
+Love building beautiful and intuitive UIs.
 
 Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux and Vuex and SSR frameworks such as Nuxt.
 
