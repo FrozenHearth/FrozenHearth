@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate frontend engineer - I started out as a fullstack intern, eventually transitioning into front-end, and have 3 years and 10 months of experience.
+A passionate frontend engineer - I started out as a fullstack intern, eventually transitioning into front-end, and have 4 years of experience.
 
 Love building beautiful and intuitive UIs.
 
