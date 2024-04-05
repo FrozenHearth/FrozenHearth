@@ -19,7 +19,7 @@ Love building beautiful and intuitive UIs.
 
 Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux and Vuex and SSR frameworks such as Nuxt.
 
-Currently learning Kubernetes.
+Currently learning Typescript from scratch again, and plan to learn Redis, Kafka and Kubernetes.
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, GraphQL, Next.js & Tailwind
 
