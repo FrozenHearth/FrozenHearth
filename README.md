@@ -17,10 +17,11 @@ A passionate frontend engineer - I started out as a fullstack intern, eventually
 
 Love building beautiful and intuitive UIs.
 
-Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux and Vuex and SSR frameworks such as Nuxt.
+Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux, Vuex and SSR frameworks such as Nuxt.
 
-Currently learning Typescript from scratch again, and plan to learn Python, Django, Springboot, Redis & Kafka.
+Currently learning Typescript again, and plan to learn Python, Flask, Springboot, Redis & Kafka. 
+Current read: System design and distributed systems
 
 **Stuff I know:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, Vuex, React, Redux, Angular, GraphQL, Next.js & Tailwind
 
-Aside from writing code, I like playing guitar, reading, writing short stories and poems, traveling, working out, quantum physics, binging Marvel/DC movies, anime/manga and I am an avid practitioner & volunteer of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
+Aside from writing code, I like playing guitar, reading, writing short stories and poems, solo traveling, working out, quantum physics & space/black holes, anime/manga and I am an avid practitioner of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
