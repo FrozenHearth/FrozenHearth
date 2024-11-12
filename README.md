@@ -24,6 +24,7 @@ Right now, working on 90% frontend, 10% backend at work - building new APIs in F
 Current read: YDJKS
 
 **Tech I've worked with both professionally & personally:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, React, Angular 5, VueX, Redux, Recoil, Tailwind, GraphQL, Springboot and Flask.
+
 **Tech I'm planning to pick up/have picked up:** Redis, Kafka, PostgreSQL, Next.js 
 
 Aside from writing code, I like playing guitar, reading, writing short stories and poems, solo traveling, working out, quantum physics & space/black holes, anime/manga and I am an avid practitioner of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
