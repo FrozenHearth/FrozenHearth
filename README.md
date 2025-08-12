@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate frontend engineer - I started out as a fullstack intern, eventually transitioning into front-end, and have 4+ years of experience.
+A passionate frontend engineer - I started out as a fullstack intern, eventually transitioning into front-end, and have 5 and a half years of experience.
 
 Love building beautiful and intuitive UIs.
 
@@ -21,7 +21,7 @@ Well versed in Javascript and its frameworks/libraries such as Angular, React, V
 
 Right now, working on 90% frontend, 10% backend at work - building new APIs in Flask & Springboot based microservices backend
 
-Current read: YDJKS
+Current read: N/A
 
 **Tech I've worked with both professionally & personally:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, React, Angular 5, VueX, Redux, Recoil, Tailwind, GraphQL, Springboot and Flask.
 
