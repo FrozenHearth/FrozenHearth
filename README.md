@@ -13,20 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...-->
 
-A passionate frontend engineer with 5 and a half years+ of experience.
+A passionate Senior Frontend Engineer with almost 6 years of experience.
 
-Love building beautiful and intuitive UIs.
+Love building incredible UIs.
 
-Well versed in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux, Vuex and SSR frameworks such as Nuxt.
-
-Right now my work is majorly on the frontend, a little on the backend - building new APIs in Flask & Springboot based microservices
+Experienced in Javascript and its frameworks/libraries such as Angular, React, Vue, state-management libraries such as Redux, Vuex and frameworks such as Nuxt/Next. I also have experience using Node.js, Java, Python & Redis, along with Postgres & MongoDB.
 
 Current read: N/A
 
-**Tech I've worked with both professionally & personally:** HTML, CSS/SASS/SCSS, Javascript/Typescript, Vue, React, Angular 5, VueX, Redux, Recoil, Tailwind, GraphQL, Springboot and Flask.
-
-**Tech I have picked up:** PostgreSQL, Next.js
-
-**Tech I'm planning to pick up:** Redis, Kafka, [and backend full fledged in my path to become a fullstack dev](https://roadmap.sh/backend)
+**Things I'm planning to learn:** Kafka, Docker, AWS, Kubernetes, AI/ML [and filling my missing gaps in the backend](https://roadmap.sh/backend)
 
 Aside from writing code, I like playing guitar, reading, writing short stories and poems, solo traveling, working out, quantum physics, space/black holes, anime/manga and I am an avid practitioner of [Heartfulness Meditation](https://heartfulness.org/in/about-heartfulness/).
